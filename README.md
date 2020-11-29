@@ -9,4 +9,4 @@ https://github.com/xgg1003 - Oscar García González
 
 https://github.com/jle1001 - José Ángel López Estrada
 
-https://github.com/rhv1001 - Rubén Herrero Vicario
+[Rubén Herrero Vicario](https://github.com/rhv1001)
