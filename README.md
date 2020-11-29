@@ -5,7 +5,7 @@ Para completar la primera práctica obligatoria sobre gestión de tareas en meto
 
 **Incluid debajo el nombre de los miembros del grupo:**
 
-https://github.com/xgg1003 - Oscar García González
+[Oscar García González](https://github.com/xgg1003)
 
 [José Ángel López Estrada](https://github.com/jle1001) 
 
