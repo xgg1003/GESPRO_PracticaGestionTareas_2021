@@ -7,6 +7,6 @@ Para completar la primera práctica obligatoria sobre gestión de tareas en meto
 
 https://github.com/xgg1003 - Oscar García González
 
-https://github.com/jle1001 - José Ángel López Estrada
+[José Ángel López Estrada](https://github.com/jle1001) 
 
 [Rubén Herrero Vicario](https://github.com/rhv1001)
